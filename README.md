@@ -1,1 +1,1 @@
-# This is Azure Function Projext
+# This is Azure Function Project
